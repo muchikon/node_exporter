@@ -6,6 +6,7 @@
 * [BUGFIX]
 
 * [BUGFIX] Handle errors from disabled PSI subsystem #1983
+* [BUGFIX] Silence missing netclass errors #1986
 
 ## 1.1.1 / 2021-02-12
 
